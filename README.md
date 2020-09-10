@@ -1,4 +1,5 @@
 ### Hi there 👋
+<br>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif"/>
@@ -6,33 +7,38 @@
 
 <!-- [![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/blueedgetechno) -->
 
-<a href=https://github.com/blueedgetechno>
+<a target="_blank" href=https://github.com/blueedgetechno>
   <img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />
   &nbsp;
 </a>
 
-<a href=https://codeforces.com/profile/blue_edge>
+<a target="_blank" href=https://codeforces.com/profile/blue_edge>
   <img src=https://sta.codeforces.com/s/62449/favicon-32x32.png width="25" height="25" />
   &nbsp;
 </a>
 
-<a href=https://twitter.com/Blueedge12>
+<a target="_blank" href=https://twitter.com/Blueedge12>
   <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
   &nbsp;
 </a>
 
-<a href=mailto:blueedgetechno@gmail.com>
+<a target="_blank" href=mailto:blueedgetechno@gmail.com>
   <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
   &nbsp;
 </a>
 
-<a href=https://blueblogs.herokuapp.com>
+<a href=https://www.linkedin.com/in/rohan-gupta-07442917b/>
+  <img height="25" width="25" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+  &nbsp;
+</a>
+
+<a target="_blank" href=https://blueblogs.herokuapp.com>
   <img height="25" width="25" src="./img/hiclipart.com.png" fill="#fff"/>
   &nbsp;
 </a>
 
 <hr>
-<h3 align="center">Lets see what we got here</h3>
+<h3 align="center">Show me your cards</h3>
 <br>
 
 <p align="center">
