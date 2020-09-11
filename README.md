@@ -27,7 +27,7 @@
   &nbsp;
 </a>
 
-<a href=https://www.linkedin.com/in/rohan-gupta-07442917b/>
+<a target="_blank" href=https://www.linkedin.com/in/rohan-gupta-07442917b />
   <img height="25" width="25" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
   &nbsp;
 </a>
