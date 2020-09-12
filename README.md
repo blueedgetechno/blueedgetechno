@@ -32,7 +32,7 @@
   &nbsp;
 </a>
 
-<a target="_blank" href=https://blueblogs.herokuapp.com>
+<a target="_blank" href=https://blueedgetechno.herokuapp.com/projects >
   <img height="25" width="25" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/pngegg.png" fill="#fff"/>
   &nbsp;
 </a>
