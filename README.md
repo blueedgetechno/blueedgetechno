@@ -17,7 +17,7 @@
   &nbsp;
 </a>
 
-<a target="_blank" href=https://twitter.com/Blueedge12>
+<a target="_blank" href=https://twitter.com/blueedgetechno>
   <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
   &nbsp;
 </a>
