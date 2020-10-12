@@ -1,6 +1,4 @@
-<p align="center">
-  <h3>Hi, Homo sapiens 👋</h3>
-</p>
+<h3 align="center">Hi, Homo sapiens 👋</h3>
 <br>
 
 <p align="center">
