@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <h3>Hi, Homo sapiens 👋</h3>
+</p>
 <br>
 
 <p align="center">
