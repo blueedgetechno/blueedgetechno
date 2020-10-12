@@ -2,12 +2,11 @@
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif"/>
+  <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif"/>
 </p>
 
-<!-- [![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/blueedgetechno) -->
-
-<a target="_blank" href=https://github.com/blueedgetechno>
+<p align="center">
+ <a target="_blank" href=https://github.com/blueedgetechno>
   <img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />
   &nbsp;
 </a>
@@ -36,6 +35,7 @@
   <img height="25" width="25" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/pngegg.png" fill="#fff"/>
   &nbsp;
 </a>
+</p>
 
 <hr>
 <h3 align="center">Show me your cards</h3>
@@ -59,4 +59,6 @@
 
 <br><br>
 
-<img alt="blueedge's github stats" src="https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<p align="center">
+  <img alt="blueedge's github stats" src="https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+ </p>
