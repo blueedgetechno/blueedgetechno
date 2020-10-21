@@ -62,3 +62,5 @@
 <p align="center">
   <img alt="blueedge's github stats" src="https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
  </p>
+ 
+ <p align="center">Profile views : <br> <img src="https://profile-counter.glitch.me/blueedgetechno/count.svg" /> </p>
