@@ -63,5 +63,5 @@
 
 <p align="center">
   <img alt="blueedge's github stats" src="https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight">
+  <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight">
  </p>
