@@ -1,8 +1,6 @@
 <h3 align="center">Hi, Homo sapiens 👋</h3>
 
 <br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blueedgetechno" alt="blueedge"/> </p>  </p>
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif"/>
@@ -79,3 +77,6 @@
   <img width="500" alt="blueedge's github stats" src="https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
   <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight">
  </p>
+
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blueedgetechno" alt="blueedge"/> </p>  </p>
