@@ -62,7 +62,7 @@
 
 <p align="center">
   
-<img width="500" src="https://metrics.lecoq.io/blueedgetechno" alt="Github Metrics">
+<img width="500" src="https://metrics.lecoq.io/blueedgetechno?id=blueedgetechno" alt="Github Metrics">
   
   <br>
   <br>
