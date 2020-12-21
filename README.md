@@ -75,3 +75,13 @@
 
 <br>
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blueedgetechno" alt="blueedge"/> </p>  </p>
+<br>
+<p align="center">
+    Aww, You made this far. Here is a Gift for you
+</p>
+<br>
+<p align="center">
+    <img width="500"
+        src="https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default"
+    />
+</p>
