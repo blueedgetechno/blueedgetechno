@@ -56,14 +56,14 @@
 <br><br>
 
 <p align="center">
-  
-<img width="500" src="https://metrics.lecoq.io/blueedgetechno?id=blueedgetechno" alt="Github Metrics">
+
+<img width="500" src="https://metrics.lecoq.io/blueedgetechno" alt="Github Metrics">
   
   <br>
   <br>
-  
+
 <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=blueedgetechno" alt="Github Streak Stats">
-  
+
 </p>
 
 <br>
