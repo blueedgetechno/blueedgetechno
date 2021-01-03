@@ -1,13 +1,13 @@
-### Hi there 👋
+<h3 align="center">Hi, Homo sapiens 👋</h3>
+
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif"/>
+  <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif"/>
 </p>
 
-<!-- [![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/blueedgetechno) -->
-
-<a target="_blank" href=https://github.com/blueedgetechno>
+<p align="center">
+ <a target="_blank" href=https://github.com/blueedgetechno>
   <img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />
   &nbsp;
 </a>
@@ -17,7 +17,7 @@
   &nbsp;
 </a>
 
-<a target="_blank" href=https://twitter.com/Blueedge12>
+<a target="_blank" href=https://twitter.com/blueedgetechno>
   <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
   &nbsp;
 </a>
@@ -27,15 +27,11 @@
   &nbsp;
 </a>
 
-<a target="_blank" href=https://www.linkedin.com/in/rohan-gupta-07442917b />
-  <img height="25" width="25" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-  &nbsp;
-</a>
-
 <a target="_blank" href=https://blueedgetechno.herokuapp.com/projects >
   <img height="25" width="25" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/pngegg.png" fill="#fff"/>
   &nbsp;
 </a>
+</p>
 
 <hr>
 <h3 align="center">Show me your cards</h3>
@@ -59,4 +55,33 @@
 
 <br><br>
 
-<img alt="blueedge's github stats" src="https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<p align="center">
+  
+<img width="500" src="https://metrics.lecoq.io/blueedgetechno?id=blueedgetechno" alt="Github Metrics">
+  
+  <br>
+  <br>
+  
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=blueedgetechno" alt="Github Streak Stats">
+  
+</p>
+
+<br>
+
+<p align="center">
+  <img width="500" alt="blueedge's github stats" src="https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
+  <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight&langs_count=10">
+ </p>
+
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blueedgetechno" alt="blueedge"/> </p>  </p>
+<br>
+<p align="center">
+    Aww, You made this far. Here is a Gift for you
+</p>
+<br>
+<p align="center">
+    <img width="500"
+        src="https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default"
+    />
+</p>
