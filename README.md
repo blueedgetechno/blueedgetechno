@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif"/>
+  <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile2.gif"/>
 </p>
 
 <p align="center">
