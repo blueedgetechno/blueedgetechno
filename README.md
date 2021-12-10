@@ -72,6 +72,8 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=blueedgetechno&theme=redical)
 
+![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
+
 <br>
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blueedgetechno" alt="blueedge"/> </p>  </p>
 <br>
